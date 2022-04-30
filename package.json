@@ -20,7 +20,7 @@
     "shush": "^1.0.0"
   },
   "devDependencies": {
-    "async": "^1.0.0",
+    "async": "^2.6.4",
     "chromedriver": "^2.42.0",
     "grunt": "^1.0.3",
     "grunt-contrib-jshint": "^1.0.0",
